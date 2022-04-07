@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me https://www.linkedin.com/in/aftabakhand24/ 
-- 📱  8605020249 
+- ☎ 8605020249 
 - 📧 aft4b.akhand@gmail.com
