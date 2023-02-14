@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aftab Akhand</h1>
-<h3 align="center">UI Developer from India . Eager to collaborate with creative people on developing Ideas by applying my logical and technical skills.</h3>
+<h3 align="center">MERN Stack Developer from India. Eager to collaborate with creative people on developing Ideas by applying my logical and technical skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabdotorg&label=Profile%20views&color=0e75b6&style=flat" alt="aftabdotorg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabdotorg" alt="aftabdotorg" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Currently building **MERN Stack**
 
-- 💬 Ask me about **Web-development, React, Designing, Cyber Security, Chess**
+- 💬 Ask me about **MERN, Web-development, React, Designing, Chess**
 
 - 📫 How to reach me **aft4b.akhand@gmail.com**
 
