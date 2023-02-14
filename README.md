@@ -13,9 +13,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/https://codepen.io/loop3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/loop3r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aftabakhand24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aftabakhand24/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/aftabakhand24/](https://www.linkedin.com/in/aftabakhand24/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aftabakhand24/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/aft4b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/aft4b" height="30" width="40" /></a>
 <a href="https://hashnode.com/@killbytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@killbytes" height="30" width="40" /></a>
 <a href="https://medium.com/@aft4b.akhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aft4b.akhand" height="30" width="40" /></a>
