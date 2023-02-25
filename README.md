@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aftab Akhand</h1>
+<h1 align="center">👋, I'm Aftab Akhand</h1>
 <h3 align="center">Full Stack Developer</h3>
 <h4 align="center">Ready to collaborate with web-apps, UI/UX, devOps creations.   
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aftabdotorg&label=Profile%20views&color=0e75b6&style=flat" alt="aftabdotorg" /> </p>
 <hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aftabdotorg&label=Profile%20views&color=0e75b6&style=flat" alt="aftabdotorg" /> </p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabdotorg" alt="aftabdotorg" /></a> </p>
 
 - 🌱 Currently building **MERN Stack**
@@ -14,13 +14,19 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/https://codepen.io/loop3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/loop3r" height="30" width="40" /></a>
+<p align="center" justifyContent="space-between">
+
+  <a href="https://codepen.io/https://codepen.io/loop3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/loop3r" height="30" width="40" /></a>
+  
 <a href="https://www.linkedin.com/in/aftabakhand24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aftabakhand24/" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/aft4b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/aft4b" height="30" width="40" /></a>
-<a href="https://hashnode.com/@killbytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@killbytes" height="30" width="40" /></a>
-<a href="https://medium.com/@aft4b.akhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aft4b.akhand" height="30" width="40" /></a>
-<a href="https://discord.gg/redstoneXf#4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="redstoneXf#4114" height="30" width="40" /></a>
+
+  <a href="https://codesandbox.io/u/aft4b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/aft4b" height="30" width="40" /></a>
+
+  <a href="https://hashnode.com/@killbytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@killbytes" height="30" width="40" /></a>
+
+  <a href="https://medium.com/@aft4b.akhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aft4b.akhand" height="30" width="40" /></a>
+
+  <a href="https://discord.gg/redstoneXf#4114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="redstoneXf#4114" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
