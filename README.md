@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm Aftab Akhand,<br>Full Stack Web Developer,<br>currently working on MERN Stack, <br>I design and build websites, webapps, games, extensions.<br><br>Interested in : Web dev, Cyber Security, Linux. <br><br> <br>
+I'm Aftab Akhand,<br>Full Stack Web Developer,<br>currently working on MERN Stack, <br>I design and build websites, webapps, games, extensions.<br>
+Reach me at:<br>
+mail : aft4b.akhand@gmail.com<br>
+phone : 8605020249<br>
+ 
+<br><br>Interested in : Web dev, Cyber Security, Linux. <br><br> <br>
 
 
 ## 🌐 Socials:
