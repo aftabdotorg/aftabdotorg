@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aftab Akhand</h1>
 <h3 align="center">Full Stack Developer</h3>
 <h4 align="center">Ready to collaborate with web-apps, UI/UX, devOps creations.   
-<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aftabdotorg&label=Profile%20views&color=0e75b6&style=flat" alt="aftabdotorg" /> </p>
-<br>
+<hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabdotorg" alt="aftabdotorg" /></a> </p>
 
 - 🌱 Currently building **MERN Stack**
