@@ -1,5 +1,5 @@
 # I'm Aftab Akhand,
-<br>React UI Developer,
+<br>React Developer,
 <br>currently working on MERN Stack, 
 <br>I design and build websites, webapps, games, extensions.<br><br>
 Reach me at:<br>
