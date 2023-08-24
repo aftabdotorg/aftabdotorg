@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm Aftab, a Full Stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>**  
+### **<div align="center">I'm Aftab, a Full Stack Developer 👨‍💻</div>**  
   
 
 - 🔭 currently working on MERN Stack Projects  
