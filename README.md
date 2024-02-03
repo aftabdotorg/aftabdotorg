@@ -6,7 +6,7 @@
 ### **<div align="center">I'm Aftab, Full Stack Developer 👨‍💻</div>**  
   
 
-- 🔭 currently working on Nxt.js & Vue 3  
+- 🔭 currently working on Nuxt.js & Vue 3  
   
 
 - 🌱 upskilling in Authentication and Cache management  
