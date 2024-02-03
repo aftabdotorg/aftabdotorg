@@ -6,13 +6,13 @@
 ### **<div align="center">I'm Aftab, Full Stack Developer 👨‍💻</div>**  
   
 
-- 🔭 currently working on MERN Stack Projects  
+- 🔭 currently working on Nxt.js & Vue 3  
   
 
 - 🌱 upskilling in Authentication and Cache management  
   
 
-- ❓ Interested in MERN, UI, JavaScript, Cybersecurity   
+- ❓ Interested in MERN/MEVN, Nuxt, Vue, UI, JavaScript, Cybersecurity   
   
 
 - ⚡ For Remote Collaborations - a4tab.akhand@gmail.com   
